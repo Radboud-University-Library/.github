@@ -1,6 +1,6 @@
 # Radboud University Library
 
-![Radboud University Library](/Centrale-Bibliotheek.jpg.webp)
+<img src="/Centrale-Bibliotheek.jpg.webp" alt="Radboud University Library" width="500">
 
 Welcome to the GitHub space of Radboud University Library! This is where we share tools, apps, and utilities we've built to make working with OCLC's APIs, WorldShare Management Services (WMS), ContentDM, and our digitization lab easier and more efficient.
 
